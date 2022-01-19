@@ -1,4 +1,5 @@
 # Simple Interest Calculator
+## Check out the [Simple Interest Calculator](https://tamal-kundu.github.io/Simple-Interest-Calculator/)
 
 ## Final Project Work Made by Tamal
 >
